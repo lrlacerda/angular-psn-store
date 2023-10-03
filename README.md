@@ -1,23 +1,66 @@
-# angular-psn-store
-A Playstation Store Clone made with Angular
+# Store Angular Project
 
-Store
 This project was generated with Angular CLI version 14.1.2.
 
-Development server
-Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
+## Development Server
 
-Code scaffolding
-Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
+To run the development server, use the following command:
 
-Build
-Run ng build to build the project. The build artifacts will be stored in the dist/ directory.
+ng serve
 
-Running unit tests
-Run ng test to execute the unit tests via Karma.
+csharp
+Copy code
 
-Running end-to-end tests
-Run ng e2e to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Navigate to http://localhost:4200/ in your web browser. The application will automatically reload if you change any of the source files.
 
-Further help
-To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
+## Code Scaffolding
+
+You can generate various Angular components and other code structures using the following commands:
+
+ng generate component component-name
+ng generate directive|pipe|service|class|guard|interface|enum|module
+
+bash
+Copy code
+
+## Build
+
+To build the project, run the following command:
+
+ng build
+
+perl
+Copy code
+
+The build artifacts will be stored in the `dist/` directory.
+
+## Running Unit Tests
+
+To execute unit tests via Karma, use the following command:
+
+ng test
+
+vbnet
+Copy code
+
+## Running End-to-End Tests
+
+To execute end-to-end tests, use the following command:
+
+ng e2e
+
+vbnet
+Copy code
+
+You will need to first add a package that implements end-to-end testing capabilities.
+
+## Further Help
+
+For more help with Angular CLI, you can use the following command:
+
+ng help
+
+less
+Copy code
+
+You can also check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) p
